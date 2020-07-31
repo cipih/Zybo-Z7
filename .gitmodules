@@ -4,3 +4,6 @@
 [submodule "sw"]
 	path = sw
 	url = https://github.com/cipih/Zybo-Z7-SW.git
+[submodule "os"]
+	path = os
+	url = https://github.com/cipih/Zybo-Z7-OS.git
